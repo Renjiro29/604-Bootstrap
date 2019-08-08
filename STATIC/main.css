@@ -1,0 +1,19 @@
+#nav {
+  background-color: blue !important; }
+
+#home {
+  color: white !important;
+  font-size: 20pt !important; }
+
+#home2 {
+  color: black !important; }
+
+#button {
+  color: black; }
+
+.btn-outline-success:hover {
+  color: #fff;
+  background-color: black !important;
+  border-color: black !important; }
+
+/*# sourceMappingURL=main.css.map */
